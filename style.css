@@ -20,8 +20,7 @@
 }
 
 /* Change the color of the links on hover */
-.topnav a:hover {
-    background-color: #1a0a0a;
+.navbar a:hover {
     color: rgb(11, 11, 19);
     border-radius: 4px;
 }
